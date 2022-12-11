@@ -1,3 +1,4 @@
 # sql-projects
 
-SQL projects completed.
+EDA preformed on the Covid-19 dataset.
+
