@@ -4,6 +4,6 @@
 
 Covid 19 Data Exploration in SQL.
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Data Type Conversions </br>
-Tools used: Excel, SQL, BigQuery
+Skills used include Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Data Type Conversions </br>
+Tools used include Excel, SQL, BigQuery
 
