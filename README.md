@@ -1,8 +1,5 @@
-# sql-projects
+# SQL Tutorials
 
-## Covid-19 EDA
+Solutions to various SQL tutorials. 
 
-Covid 19 EDA in SQL.
-
-Skills used include Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Data Type Conversions. </br>
-Tools used include Excel, SQL, BigQuery.
+"Alex the Analyst" COVID-19 EDA, SQL Zoo solutions, Data Lemur solutions, etc. 
