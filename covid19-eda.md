@@ -1,5 +1,9 @@
 ```sql
 /*
+
+'ALEX THE ANALYST' SQL TUTORIAL
+https://youtu.be/qfyynHBFOsM?si=SeL8qAuN---3_r18
+
 Covid 19 Data Exploration in SQL
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Data Type Conversions
